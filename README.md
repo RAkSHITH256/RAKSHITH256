@@ -52,3 +52,9 @@ To grow into a skilled Cybersecurity & Cloud Security Engineer by building stron
 
 ## 🧠 Skills
 Cybersecurity • Linux • Cloud Fundamentals • IAM • RBAC • Networking Basics
+
+## 📊 GitHub Stats
+
+![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAkSHITH256&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RAkSHITH256&theme=tokyonight)
