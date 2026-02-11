@@ -9,6 +9,16 @@
 I am a cybersecurity student building strong foundations in system security, networking, and access control concepts. My learning approach is hands-on, combining security labs, certifications, and real-world simulations to understand how modern digital systems are protected.
 
 ---
+---
+
+## 🧰 Tech & Security Stack
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundations-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-System%20Security-black?style=for-the-badge&logo=linux&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Security-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-Access%20Control-purple?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-red?style=for-the-badge)
+
 
 ## 🔐 Security Focus Areas
 - Identity and Access Management (IAM)
