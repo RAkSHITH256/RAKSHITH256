@@ -1,70 +1,184 @@
 <img src="github.png" width="100%" />
 
+# 🚀 Hi, I'm Rakshith
 
-
-
-# 🛡️ Hi, I'm Rakshith
-
-🎓 Cybersecurity Student | ☁️ Cloud Security Learner  
-🔐 Focused on Identity & Access Management, System Security, and Practical Cybersecurity Foundations.
+☁️ DevOps & Cloud Enthusiast
+⚙️ Passionate about Kubernetes, Cloud-Native Infrastructure, Monitoring, Observability, and Automation.
 
 ---
 
-## 🚀 About Me
-I am a cybersecurity student building strong foundations in system security, networking, and access control concepts. My learning approach is hands-on, combining security labs, certifications, and real-world simulations to understand how modern digital systems are protected.
+# 👨‍💻 About Me
 
----
----
+I am a hands-on DevOps learner focused on building practical cloud-native infrastructure and observability solutions using modern DevOps tools and Kubernetes ecosystems.
 
-## 🧰 Tech & Security Stack
+I enjoy working on:
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundations-blue?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-System%20Security-black?style=for-the-badge&logo=linux&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Security-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-Access%20Control-purple?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-red?style=for-the-badge)
+* Kubernetes deployments
+* Monitoring & observability
+* Infrastructure automation
+* CI/CD workflows
+* Cloud-native tooling
+* Production-style DevOps environments
 
+My learning approach focuses heavily on:
 
-## 🔐 Security Focus Areas
-- Identity and Access Management (IAM)
-- Role-Based Access Control (RBAC)
-- Encryption Fundamentals
-- Linux System Security
-- Cloud Security Basics
-- OWASP Top 10 Learning Paths
+# building → troubleshooting → monitoring → improving
+
+through real-world projects and operational practice.
 
 ---
 
-## 💼 Experience & Learning
-- ✅ TATA Cybersecurity Analyst Job Simulation (Forage)
-- ✅ IBM Introduction to Cloud Certification
-- ✅ Cybersecurity Terminology & Awareness
-- ✅ Linux Fundamentals
-- 🔄 Active Practice on Security Learning Labs
+# 🧰 DevOps & Cloud Stack
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge\&logo=docker\&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/DockerHub-Registry-blue?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-Package%20Manager-blue?style=for-the-badge\&logo=helm\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-Logging-yellow?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge\&logo=linux\&logoColor=white)
+![Ingress](https://img.shields.io/badge/Kubernetes-Ingress-blue?style=for-the-badge)
 
 ---
 
-## ⚙️ Projects
-- Piezoelectric-Based Energy Harvesting & Monitoring System (ESP32 + IoT)
-- Practical Cybersecurity Learning & Labs
+# ☸️ Current Learning Focus
+
+* Kubernetes Administration
+* Cloud-Native Infrastructure
+* Monitoring & Observability
+* Production Monitoring Systems
+* Prometheus & Grafana
+* Kubernetes Networking
+* Helm & Package Management
+* CI/CD Automation
+* Linux Administration
+* Infrastructure Troubleshooting
 
 ---
 
-## 🎯 Goals
-To grow into a skilled Cybersecurity & Cloud Security Engineer by building strong practical foundations, ethical knowledge, and real-world security experience.
+# 🚀 Featured Projects
 
 ---
 
-## 🧠 Skills
-Cybersecurity • Linux • Cloud Fundamentals • IAM • RBAC • Networking Basics
+# 📊 Production-Ready Kubernetes Observability Platform
+
+Designed and implemented a complete cloud-native monitoring and observability platform using Kubernetes and modern DevOps tooling.
+
+## 🔧 Technologies Used
+
+* Kubernetes
+* Docker
+* Helm
+* Prometheus
+* Grafana
+* Loki
+* GitHub Actions
+* Ingress
+* Linux
+
+## 📌 Features
+
+* Kubernetes cluster monitoring
+* Grafana dashboards & visualizations
+* Dynamic dashboard variables
+* Chained Grafana variables
+* Prometheus alerting system
+* Infrastructure monitoring
+* Node metrics collection
+* Centralized logging architecture
+* CI/CD workflow concepts
+* Helm-based deployments
+* Ingress-based traffic routing
+
+## 📈 Key Learnings
+
+* Kubernetes observability
+* PromQL querying
+* Monitoring architecture
+* SRE concepts
+* Incident monitoring
+* Alert management
+* Cloud-native troubleshooting
+* Production-style deployments
 
 ---
 
+# ⚡ Kubernetes Web Application Deployment
+
+Built and deployed containerized applications on Kubernetes with service exposure and ingress routing.
+
+## 🔧 Features
+
+* Dockerized applications
+* Kubernetes deployments
+* Service discovery
+* Ingress configuration
+* Namespace management
+* Kubernetes networking basics
+
 ---
 
-## 📊 GitHub Stats
+# 🔄 CI/CD Automation Workflow
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RAkSHITH256&show_icons=true&theme=tokyonight&hide_border=true" />
+Implemented GitHub Actions workflows for DevOps automation concepts.
 
-<img src="https://streak-stats.demolab.com?user=RAkSHITH256&theme=tokyonight&hide_border=true" />
+## 🔧 Features
 
+* Automated workflows
+* Docker image build concepts
+* GitHub integration
+* CI/CD pipeline basics
+* Deployment automation workflows
+
+---
+
+# 📈 Skills
+
+### ☁️ Cloud & DevOps
+
+Kubernetes • Docker • Helm • GitHub Actions • CI/CD • Linux • Ingress • Cloud-Native Infrastructure
+
+### 📊 Monitoring & Observability
+
+Prometheus • Grafana • Loki • Monitoring • Alerting • Dashboards • PromQL • Observability
+
+### ⚙️ Infrastructure & Operations
+
+Infrastructure Monitoring • Kubernetes Networking • Troubleshooting • System Monitoring • DevOps Workflows
+
+---
+
+# 📚 Currently Practicing
+
+* Kubernetes Troubleshooting
+* DevOps Job Simulations
+* Monitoring Stack Deployments
+* Infrastructure Debugging
+* Linux Administration
+* Real-World DevOps Labs
+* Cloud-Native Workflows
+
+---
+
+# 🎯 Goals
+
+To become a skilled DevOps & Cloud Engineer by building strong practical expertise in:
+
+* Kubernetes
+* Cloud-Native Infrastructure
+* Monitoring & Observability
+* Automation & CI/CD
+* Scalable Distributed Systems
+* Production Operations
+
+---
+
+# 🌟 Motto
+
+"Build. Monitor. Troubleshoot. Improve."
+
+---
