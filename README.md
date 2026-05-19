@@ -64,75 +64,45 @@ through real-world projects and operational practice.
 
 ---
 
-# 📊 Production-Ready Kubernetes Observability Platform
+## ☁️ Cloud-Native Platform
 
-Designed and implemented a complete cloud-native monitoring and observability platform using Kubernetes and modern DevOps tooling.
+Built and deployed a cloud-native application platform by integrating core DevOps tools and Kubernetes workflows.
 
-## 🔧 Technologies Used
+### 🔧 Integrated Technologies
 
-* Kubernetes
-* Docker
-* Helm
-* Prometheus
-* Grafana
-* Loki
-* GitHub Actions
-* Ingress
-* Linux
+Git • GitHub • Docker • Docker Hub • Kubernetes • Helm • GitHub Actions • Ingress • Linux
 
-## 📌 Features
+### 📌 Features
 
-* Kubernetes cluster monitoring
-* Grafana dashboards & visualizations
-* Dynamic dashboard variables
-* Chained Grafana variables
-* Prometheus alerting system
-* Infrastructure monitoring
-* Node metrics collection
-* Centralized logging architecture
-* CI/CD workflow concepts
+* Containerized application deployment
+* Kubernetes-based infrastructure
+* CI/CD workflow practice
 * Helm-based deployments
-* Ingress-based traffic routing
-
-## 📈 Key Learnings
-
-* Kubernetes observability
-* PromQL querying
-* Monitoring architecture
-* SRE concepts
-* Incident monitoring
-* Alert management
-* Cloud-native troubleshooting
-* Production-style deployments
-
----
-
-# ⚡ Kubernetes Web Application Deployment
-
-Built and deployed containerized applications on Kubernetes with service exposure and ingress routing.
-
-## 🔧 Features
-
-* Dockerized applications
-* Kubernetes deployments
-* Service discovery
-* Ingress configuration
-* Namespace management
+* Ingress routing
+* Docker image management
 * Kubernetes networking basics
 
 ---
 
-# 🔄 CI/CD Automation Workflow
+## 📊 Production-Ready Kubernetes Observability Platform
 
-Implemented GitHub Actions workflows for DevOps automation concepts.
+Built a Kubernetes monitoring and observability setup by integrating modern DevOps monitoring tools and cloud-native technologies.
 
-## 🔧 Features
+### 🔧 Integrated Technologies
 
-* Automated workflows
-* Docker image build concepts
-* GitHub integration
-* CI/CD pipeline basics
-* Deployment automation workflows
+Kubernetes • Docker • Helm • Prometheus • Grafana • Loki • GitHub Actions • Linux • Ingress
+
+### 📌 Features
+
+* Kubernetes cluster monitoring
+* Grafana dashboards
+* Prometheus metrics collection
+* Basic alerting setup
+* Dynamic dashboard variables
+* Centralized logging concepts
+* Helm-based deployments
+* Infrastructure monitoring
+* Ingress configuration
 
 ---
 
